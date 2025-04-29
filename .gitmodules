@@ -1,7 +1,7 @@
 [submodule "PSSnow"]
 	path = PSSnow
 	url = https://github.com/cherichita/PSSnow.git
-	branch = future
+	branch = 1.4.0
 [submodule "servicenow-midtools"]
 	path = servicenow-midtools
 	url = https://github.com/cherichita/servicenow-midtools.git
